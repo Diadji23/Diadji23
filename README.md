@@ -30,10 +30,11 @@ I'm Papa Diadji BOYE, a passionate **Applied Mathematics student** with a strong
 ---
 
 ## 🚀 Featured Projects
-
+- [** Time series Forecasting **](https://github.com/Diadji23/Time-Series-Forecasting)
+- [**Deep Learning with Keras**](https://github.com/Diadji23/Deep-Learning-with-Keras) : Neural networks and CNN implementations
 - [**Ray-Tracing-C++**](https://github.com/Diadji23/Ray-Tracing-C-) : A ray tracing simulation project implemented in C++  
 - [**Amazon Review Prediction**](https://github.com/Diadji23/amazon-review-prediction-nlp) : Sentiment analysis on Amazon reviews using NLP  
-- [**Fraud Detection (In Progress)**](https://github.com/Diadji23/fraud-detection-anomaly-En-cours-) : Anomaly detection for fraud prevention  
+- [**Fraud Detection**](https://github.com/Diadji23/fraud-detection-anomaly-En-cours-) : Anomaly detection for fraud prevention  
 - [**Deep Learning with Keras**](https://github.com/Diadji23/Deep-Learning-with-Keras) : Neural networks and CNN implementations
 
 ---
