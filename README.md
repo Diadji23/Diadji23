@@ -25,7 +25,7 @@ I'm Papa Diadji BOYE, a passionate **Applied Mathematics student** with a strong
 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge)
 ![Natural Language Processing](https://img.shields.io/badge/NLP-FF6347?style=for-the-badge)
-![ML for Signal Processing](https://img.shields.io/badge/Signal%20Processing-20B2AA?style=for-the-badge)
+![ ML for Signal Processing](https://img.shields.io/badge/Signal%20Processing-20B2AA?style=for-the-badge)
 
 ---
 
