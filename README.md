@@ -1,7 +1,7 @@
 ## Hi there
 
 I'm **Papa Diadji BOYE**, an **Applied Mathematics and Computer Science engineering student** passionate about **Machine Learning, Data Science, and Computer Vision**.  
-I enjoy building interpretable AI systems and exploring how deep learning models make their decisions.  
+I’m passionate about exploring how data and machine learning can be used to model, understand, and improve complex systems.  
 
 ---
 
