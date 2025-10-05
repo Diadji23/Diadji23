@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi there
 
-I'm Papa Diadji BOYE, a passionate **Applied Mathematics student** with a strong interest in **Machine Learning, Data Science, and Computer Vision**. 🚀
+I'm **Papa Diadji BOYE**, an **Applied Mathematics and Computer Science engineering student** passionate about **Machine Learning, Data Science, and Computer Vision**.  
+I enjoy building interpretable AI systems and exploring how deep learning models make their decisions.  
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,33 +22,35 @@ I'm Papa Diadji BOYE, a passionate **Applied Mathematics student** with a strong
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge)
 ![Natural Language Processing](https://img.shields.io/badge/NLP-FF6347?style=for-the-badge)
-![ ML for Signal Processing](https://img.shields.io/badge/Signal%20Processing-20B2AA?style=for-the-badge)
+![Traitement d'image](https://img.shields.io/badge/Traitement%20d%27image-20B2AA?style=for-the-badge)
+
 
 ---
 
-## 🚀 Featured Projects
-- [** Time series Forecasting **](https://github.com/Diadji23/Time-Series-Forecasting)
-- [**Deep Learning with Keras**](https://github.com/Diadji23/Deep-Learning-with-Keras) : Neural networks and CNN implementations
-- [**Ray-Tracing-C++**](https://github.com/Diadji23/Ray-Tracing-C-) : A ray tracing simulation project implemented in C++  
-- [**Amazon Review Prediction**](https://github.com/Diadji23/amazon-review-prediction-nlp) : Sentiment analysis on Amazon reviews using NLP  
-- [**Fraud Detection**](https://github.com/Diadji23/fraud-detection-anomaly-En-cours-) : Anomaly detection for fraud prevention  
-- [**Deep Learning with Keras**](https://github.com/Diadji23/Deep-Learning-with-Keras) : Neural networks and CNN implementations
+## Featured Projects
+
+- [**Time Series Forecasting**](https://github.com/Diadji23/Time-Series-Forecasting) — Multivariate prediction and evaluation with LSTM and statistical models.  
+- [**Amazon Review Prediction**](https://github.com/Diadji23/amazon-review-prediction-nlp) — Sentiment analysis on Amazon reviews using NLP.  
+- [**Fraud Detection**](https://github.com/Diadji23/fraud-detection-anomaly-En-cours-) — Anomaly detection for fraud prevention.  
+- [**Deep Learning with Keras**](https://github.com/Diadji23/Deep-Learning-with-Keras) — Neural network and CNN implementations from scratch.  
+- [**Ray Tracing in C++**](https://github.com/Diadji23/Ray-Tracing-C-) — Rendering simulation using geometric and lighting principles.
 
 ---
 
-## 📫 Contact Me
+## Contact
 
 - **LinkedIn:** [Papa Diadji BOYE](https://www.linkedin.com/in/papa-diadji-boye/)  
-- **Email:** papadiadji.boye@ensiie.eu
+- **Email:** papadiadji.boye@ensiie.eu  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Diadji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diadji23&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diadji23&layout=compact&theme=radical)
+
 
