@@ -13,7 +13,7 @@ to production deployment.
 
 -  ** AI Assistant** @ Devoteam — Conversational AI with 
   advanced ML Algorithms, RAG pipeline , deployed in production
--  **Advanced Speech-to-Text** — 
+-  **Advanced Speech-to-Text** — Developing robust speech recognition systems with deep learning techniques
 -  Always exploring: LLMs, contrastive learning, evaluation frameworks, Explainable AI (XAI) , Deep Learning & Computer Vision
 ## Skills
 
@@ -32,11 +32,11 @@ to production deployment.
 ---
 
 ## Currently Learning
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge)
-![Natural Language Processing](https://img.shields.io/badge/NLP-FF6347?style=for-the-badge)
-![Traitement d'image](https://img.shields.io/badge/Traitement%20d%27image-20B2AA?style=for-the-badge)
-
+- AI Agents & tool-augmented LLMs (planning, tool use, orchestration)  
+- Advanced RAG systems (GraphRAG, hybrid retrieval)  
+- LLM evaluation (hallucinations, benchmarking, robustness)  
+- Multimodal models (vision-language, document AI)  
+- Efficient inference (quantization, distillation)  
 
 ---
 
