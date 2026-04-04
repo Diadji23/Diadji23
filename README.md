@@ -1,24 +1,33 @@
-## Hi there
+## Hi there 👋
 
-I'm **Papa Diadji BOYE**, an **Applied Mathematics and Computer Science engineering student** passionate about **Machine Learning, Data Science, and Computer Vision**.  
-I’m passionate about exploring how data and machine learning can be used to model, understand, and improve complex systems.  
+I'm **Papa Diadji BOYE**, an **AI/ML Engineer** (ENSIIE 2026) 
+passionate about **NLP, Deep Learning, and MLOps**.
 
----
+I build end-to-end AI systems — from research and experimentation 
+to production deployment.
 
+
+
+
+##  What I'm working on
+
+- 🌱 ** AI Assistant** @ Devoteam — Conversational AI with 
+  advanced ML Algorithms, RAG pipeline , deployed in production
+- 🎙️ **Advanced Speech-to-Text** — 
+- 📚 Always exploring: LLMs, contrastive learning, evaluation frameworks, Explainable AI (XAI) , Deep Learning & Computer Vision
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ---
 
@@ -32,12 +41,15 @@ I’m passionate about exploring how data and machine learning can be used to mo
 ---
 
 ## Featured Projects
+- [**RAG Assistant — CV Papers**] — QA system on scientific 
+  papers (Mistral + ChromaDB + LangChain), production-ready with 
+  Docker & GitHub Actions CI/CD
+- [**Amazon Review Prediction**](https://github.com/Diadji23/amazon-review-prediction-nlp) — Sentiment analysis on Amazon reviews using NLP.
 
 - [**Time Series Forecasting**](https://github.com/Diadji23/Time-Series-Forecasting) — Multivariate prediction and evaluation with LSTM and statistical models.  
-- [**Amazon Review Prediction**](https://github.com/Diadji23/amazon-review-prediction-nlp) — Sentiment analysis on Amazon reviews using NLP.  
 - [**Fraud Detection**](https://github.com/Diadji23/fraud-detection-anomaly-En-cours-) — Anomaly detection for fraud prevention.  
 - [**Deep Learning with Keras**](https://github.com/Diadji23/Deep-Learning-with-Keras) — Neural network and CNN implementations from scratch.  
-- [**Ray Tracing in C++**](https://github.com/Diadji23/Ray-Tracing-C-) — Rendering simulation using geometric and lighting principles.
+
 
 ---
 
