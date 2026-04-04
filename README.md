@@ -11,10 +11,10 @@ to production deployment.
 
 ##  What I'm working on
 
-- 🌱 ** AI Assistant** @ Devoteam — Conversational AI with 
+-  ** AI Assistant** @ Devoteam — Conversational AI with 
   advanced ML Algorithms, RAG pipeline , deployed in production
-- 🎙️ **Advanced Speech-to-Text** — 
-- 📚 Always exploring: LLMs, contrastive learning, evaluation frameworks, Explainable AI (XAI) , Deep Learning & Computer Vision
+-  **Advanced Speech-to-Text** — 
+-  Always exploring: LLMs, contrastive learning, evaluation frameworks, Explainable AI (XAI) , Deep Learning & Computer Vision
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
