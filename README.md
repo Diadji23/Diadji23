@@ -12,20 +12,20 @@ Passionate about **LLMs, NLP, RAG architectures, and Computer Vision**, with a s
 ### **RAG Assistant — CV Papers**
 QA system on scientific papers with **Mistral + ChromaDB + LangChain**, fully production-ready.  
 ✅ Dockerized, CI/CD via GitHub Actions, retrieval-augmented generation pipeline.  
-[Repo Link](https://github.com/Diadji23/RAG-Assistant)
+[Repo Link](https://github.com/Diadji23/RAG-Assistant-Computer-Vision-Papers)
 
 ### **Speech-to-Text System** *(in progress)*
 Developing a robust speech recognition system with deep learning techniques and production deployment in mind.  
-[Repo Link](https://github.com/Diadji23/Speech-to-Text)
+[SOON]  
 
 ### **Amazon Review Prediction**
 Sentiment analysis on 525k Amazon reviews using NLP pipelines.  
 ✅ BERT fine-tuning, LSTM, TF-IDF + Logistic Regression, CI/CD, Dockerized API.  
-[Repo Link](https://github.com/Diadji23/Amazon-Review-Prediction)
+[Repo Link](https://github.com/Diadji23/amazon-review-prediction-nlp)
 
 ### **Deep Learning & Computer Vision pipelines**
 Building pipelines with **explainability (XAI)** for object detection and image classification tasks.  
-[Repo Link](https://github.com/Diadji23/CV-Pipelines)
+[Repo Link](https://github.com/Diadji23/Explainability-in-deep-Learning-)
 
 ---
 
