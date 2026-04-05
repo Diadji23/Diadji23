@@ -1,68 +1,43 @@
-## Hi there 👋
+# Hi, I’m Papa Diadji BOYE 👋
 
-I'm **Papa Diadji BOYE**, an **AI/ML Engineer** (ENSIIE 2026) 
-passionate about **NLP, Deep Learning, and MLOps**.
+**AI/ML Engineer (ENSIIE 2026)** | Building end-to-end AI systems | LLMs, RAG, NLP, MLOps
 
-I build end-to-end AI systems — from research and experimentation 
-to production deployment.
-
-
-
-
-##  What I'm working on
-
--  ** AI Assistant** @ Devoteam — Conversational AI with 
-  advanced ML Algorithms, RAG pipeline , deployed in production
--  **Advanced Speech-to-Text** — Developing robust speech recognition systems with deep learning techniques
--  Always exploring: LLMs, contrastive learning, evaluation frameworks, Explainable AI (XAI) , Deep Learning & Computer Vision
-## Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+I design and deploy production-ready AI systems, from research and prototyping to deployment.  
+Passionate about **LLMs, NLP, RAG architectures, and Computer Vision**, with a strong focus on **explainability and real-world impact**.
 
 ---
 
-## Currently Learning
-- AI Agents & tool-augmented LLMs (planning, tool use, orchestration)  
+## 🚀 Featured Projects
+
+### **RAG Assistant — CV Papers**
+QA system on scientific papers with **Mistral + ChromaDB + LangChain**, fully production-ready.  
+✅ Dockerized, CI/CD via GitHub Actions, retrieval-augmented generation pipeline.  
+[Repo Link](https://github.com/Diadji23/RAG-Assistant)
+
+### **Speech-to-Text System** *(in progress)*
+Developing a robust speech recognition system with deep learning techniques and production deployment in mind.  
+[Repo Link](https://github.com/Diadji23/Speech-to-Text)
+
+### **Amazon Review Prediction**
+Sentiment analysis on 525k Amazon reviews using NLP pipelines.  
+✅ BERT fine-tuning, LSTM, TF-IDF + Logistic Regression, CI/CD, Dockerized API.  
+[Repo Link](https://github.com/Diadji23/Amazon-Review-Prediction)
+
+### **Deep Learning & Computer Vision pipelines**
+Building pipelines with **explainability (XAI)** for object detection and image classification tasks.  
+[Repo Link](https://github.com/Diadji23/CV-Pipelines)
+
+---
+
+## 🧠 Currently Exploring
+- AI Agents & tool-augmented LLMs  
 - Advanced RAG systems (GraphRAG, hybrid retrieval)  
-- LLM evaluation (hallucinations, benchmarking, robustness)  
 - Multimodal models (vision-language, document AI)  
 - Efficient inference (quantization, distillation)  
+- Model evaluation (hallucinations, robustness, benchmarking)
 
 ---
 
-## Featured Projects
-- [**RAG Assistant — CV Papers**] — QA system on scientific 
-  papers (Mistral + ChromaDB + LangChain), production-ready with 
-  Docker & GitHub Actions CI/CD
-- [**Amazon Review Prediction**](https://github.com/Diadji23/amazon-review-prediction-nlp) — Sentiment analysis on Amazon reviews using NLP.
-
-- [**Time Series Forecasting**](https://github.com/Diadji23/Time-Series-Forecasting) — Multivariate prediction and evaluation with LSTM and statistical models.  
-- [**Fraud Detection**](https://github.com/Diadji23/fraud-detection-anomaly-En-cours-) — Anomaly detection for fraud prevention.  
-- [**Deep Learning with Keras**](https://github.com/Diadji23/Deep-Learning-with-Keras) — Neural network and CNN implementations from scratch.  
-
-
----
-
-## Contact
-
-- **LinkedIn:** [Papa Diadji BOYE](https://www.linkedin.com/in/papa-diadji-boye/)  
-- **Email:** papadiadji.boye@ensiie.eu  
-
----
-
-## GitHub Stats
-
-![Diadji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diadji23&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diadji23&layout=compact&theme=radical)
-
-
+## 📫 Contact
+- LinkedIn: [Papa Diadji BOYE](https://www.linkedin.com/in/papadiadji/)  
+- Email: papadiadji.boye@ensiie.eu
