@@ -10,6 +10,33 @@ I build AI systems end to end, from model design to production, and I care about
 
 ---
 
+## Tech Stack
+
+**Languages & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**LLM & Evaluation**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Ragas](https://img.shields.io/badge/Ragas-6C5CE7?style=for-the-badge)
+![DeepEval](https://img.shields.io/badge/DeepEval-4B32C3?style=for-the-badge)
+
+**Engineering & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 ## Featured Projects
 
 ### [LLM Inference Benchmark](https://github.com/Diadji23/llm-inference-benchmark)
@@ -39,11 +66,6 @@ Direct Preference Optimization loss implemented from scratch in PyTorch, with un
 
 ---
 
-## Stack
-
-**ML / LLMs:** Python, PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, llama.cpp
-**Evaluation:** Ragas, DeepEval, LLM-as-judge, statistical testing
-**Engineering:** FastAPI, Docker, Kubernetes, CI/CD, Azure, Git, Linux
 
 ---
 
