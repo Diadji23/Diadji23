@@ -45,6 +45,12 @@ How much speed, memory and quality does quantization really trade? Reproducible 
 - Quality checked with perplexity, KL divergence and MMLU (McNemar tests): stable accuracy can hide 20% of flipped answers
 - Pre-registered hypotheses, interleaved randomized runs, 20 unit tests
 
+### [reliable-tool-agent](https://github.com/Diadji23/Reliable-tool-agent) (in progress)
+A customer-support agent built as a complete system, not a demo.
+- Tools served over MCP with Pydantic-validated outputs; the customer identity comes from the session, never from the model
+- Human approval before refunds and cancellations, guardrails against prompt injection and out-of-scope requests
+- Evaluation on the final database state rather than the wording of the answer, with tracing and cost tracking
+
 ### [RAG Assistant — Research Papers](https://github.com/Diadji23/RAG-Assistant-Computer-Vision-Papers)
 Question answering with citations over 965 chunks of computer vision papers.
 - Same pipeline runs locally (Mistral via Ollama, ChromaDB) or on Azure (Azure OpenAI, hybrid search) by configuration
@@ -53,13 +59,9 @@ Question answering with citations over 965 chunks of computer vision papers.
 ### [Explain-RAG](https://github.com/Diadji23/Explainable-RAG)
 Makes RAG answers verifiable: links every generated sentence to its source and measures faithfulness by passage ablation.
 
-### [LangGraph Support Agent](https://github.com/Diadji23/langgraph-support-agent)
-Tool-using agent that checks the reliability of its own answer and escalates to a human when in doubt.
-
-### [DPO from Scratch](https://github.com/Diadji23/DPO)
-Direct Preference Optimization loss implemented from scratch in PyTorch, with unit tests.
-
 ### Other projects
+- [LangGraph Support Agent](https://github.com/Diadji23/langgraph-support-agent): tool-using agent that checks the reliability of its own answer and escalates to a human when in doubt
+- [DPO from Scratch](https://github.com/Diadji23/DPO): Direct Preference Optimization loss implemented from scratch in PyTorch, with unit tests
 - [Speech-to-Text API](https://github.com/Diadji23/Speech-to-Text-API): Whisper served over REST and WebSocket (FastAPI), WER/CER evaluation, Docker
 - [Amazon Review Prediction](https://github.com/Diadji23/amazon-review-prediction-nlp): 525k reviews, TF-IDF vs BiLSTM vs fine-tuned BERT (94.7% accuracy), Dockerized API
 - [Explainability in Deep Learning](https://github.com/Diadji23/Explainability-in-deep-Learning-): XAI methods for classification and object detection
