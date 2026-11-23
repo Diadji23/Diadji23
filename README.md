@@ -30,7 +30,6 @@ I build AI systems end to end, from model design to production, and I care about
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -45,7 +44,7 @@ How much speed, memory and quality does quantization really trade? Reproducible 
 - Quality checked with perplexity, KL divergence and MMLU (McNemar tests): stable accuracy can hide 20% of flipped answers
 - Pre-registered hypotheses, interleaved randomized runs, 20 unit tests
 
-### [reliable-tool-agent](https://github.com/Diadji23/Reliable-tool-agent) (in progress)
+### [reliable-tool-agent](https://github.com/Diadji23/Reliable-tool-agent)
 A customer-support agent built as a complete system, not a demo.
 - Tools served over MCP with Pydantic-validated outputs; the customer identity comes from the session, never from the model
 - Human approval before refunds and cancellations, guardrails against prompt injection and out-of-scope requests
